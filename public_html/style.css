@@ -1,0 +1,60 @@
+@import url(//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css);
+@import url(https://fonts.googleapis.com/css?family=Yeon+Sung&display=swap);
+
+body{
+background: white;
+font-family: 'Yeong Sung', cursive;
+margin: 0 0 0 0;
+weight: 100%;
+background-image: linear-gradient(90deg, #202529, #3399ff 50%,#202529);
+}
+
+.linija{
+ width: 50%;
+height: 10%;
+background: #3399ff;
+border-bottom: 4px solid #66b3ff;
+}
+#logo{
+    text-align: center;
+}
+#menu{
+width: 100%;
+height: 100px;
+margin: 17px 0 0 2px;
+float: left;
+padding-top: 48px;
+text-align: center;
+}
+#menu a{
+color: white;
+ 
+}
+.menuitem{  
+display: inline-block;
+padding: 15px 29px 15px 29px;
+border-left: 1px;
+border-left-color: white;
+margin-left: -5px;
+font-size: 20px;
+background: #202529;
+border-bottom: 4px solid #3399ff
+}
+#section{
+    color:white;
+    
+}
+.naslov{
+    text-align: center;
+}paragraf{
+    width: 500px;
+    text-align: center;
+    
+}
+
+
+
+
+
+
+
